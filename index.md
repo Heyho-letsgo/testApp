@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # Cahier des charges Test App
 ## Version 0.1
 
